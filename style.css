@@ -1,0 +1,26 @@
+
+.header{
+    width: 1000px;
+    margin:0 auto;
+}
+
+h1{
+    text-align:center;
+    line-height: 30px;
+}
+.p_span{
+    color:red;
+    font-weigth:bold;
+}
+.inf{
+    font-size:20px;
+    font-weight:bold;
+}
+.div_Img img{
+    width: 500px;
+    height: 300px;
+}
+
+.div_padding{
+    margin-bottom:10px;
+}
